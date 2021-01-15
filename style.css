@@ -37,6 +37,7 @@ h1 {
 
 .menu {
     list-style: none;
+    float: right;
     width: 100%; 
     font-family: 'Fjalla One', sans-serif;
     position: fixed;
